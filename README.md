@@ -1,7 +1,7 @@
 # 🎧 ILYAGHAFFARY FREQUENCY GENERATOR: The Neon Waves of Mind
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/frequency_generator.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR Demo" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/mm.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR Demo" width="450"/>
   <h1>ILYAGHAFFARY FREQUENCY GENERATOR: A Tool for Focus, Meditation, and Sleep</h1>
   <p>A sleek, dark, and dynamic desktop application, featuring a stunning cyberpunk aesthetic and advanced audio generation modes.</p>
 </div>
